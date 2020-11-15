@@ -5,11 +5,11 @@
 
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     color: #fff;
-    background-color: 'black' !important;
+    background-color: #000000 !important;
 }
 
 a {
-    color: #E9967A;
+    color: #000000;
     text-decoration: none;
     background-color: transparent;
 }
@@ -20,26 +20,26 @@ a:hover {
 }
 
 h1 {
-  font: bold 3.0em Roboto, sans-serif;
+  font: bold 3.0em Merriweather, serif;
   height: 65px;
   color: #E9967A;
   padding-left: 10px;
 }
 
 h2 {
-  font: bold 3.0em Roboto, sans-serif;
+  font: bold 3.0em Merriweather, serif;
   height: 65px;
   color: white;
   background-color: #E9967A;
   padding-left: 10px;
 }
 
-h3 { font: bold 1.5em Roboto, sans-serif;
+h3 { font: bold 1.5em Merriweather, serif;
     color: #E9967A;
 }
 
 h4 {
-  font: bold 2.0em Roboto, sans-serif;
+  font: bold 2.0em Merriweather, serif;
   height: 45px;
   color: #E9967A;
   padding-left: 10px;
@@ -47,7 +47,7 @@ h4 {
 }
 
 h5 {
-  font: bold 2.0em Roboto, sans-serif;
+  font: bold 2.0em Merriweather, serif;
   height: 45px;
   color: #E9967A;
   padding-left: 10px;
@@ -55,15 +55,16 @@ h5 {
 }
 
 p {
-    font: 1.0em Roboto, sans-serif;
+    font: 1.0em Merriweather, serif;
     color: #A9A9A9;
 }
 
 body {
-    font-family: Roboto, sans-serif;
+    font-family: Merriweather, serif;
     font-size: 100%;
     line-height: 175%;
     margin: 0 10% 0;
+    background-color: #faefe8;
 }
 
 
@@ -82,16 +83,16 @@ div.carousel-inner {
 }
 
 div.contact {
-    font: 3.0em Roboto, sans-serif;
+    font: 3.0em Merriweather, sans-serif;
 }
 
 div.lead {
-    font: bold 3.0em Roboto, sans-serif;
+    font: bold 3.0em Merriweather, sans-serif;
     color: black;
 }
 
 h1.display-4 {
-    font: bold 1.0em Roboto, sans-serif;
+    font: bold 1.0em Merriweather, sans-serif;
 }
 
 p.lead {
