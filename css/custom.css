@@ -29,8 +29,7 @@ h1 {
 h2 {
   font: bold 3.0em Merriweather, serif;
   height: 65px;
-  color: white;
-  background-color: #E9967A;
+  color: black;
   padding-left: 10px;
 }
 
@@ -161,16 +160,12 @@ p.lead {
 
 }
 
-/* Facebook */
-.fa-facebook {
-  background: none;
-  color: #E9967A;
-}
+
 
 /* Instagram */
 .fa-instagram {
   background: none;
-  color: #E9967A;
+  color: black;
 }
 
 /* Events Page Carousel */
@@ -188,7 +183,7 @@ p.lead {
 
 /* Buttons on Merchandise Page */
 .btn {
-    background-color: #E9967A;
+    background-color: black;
     border: none;
     text-decoration: none;
     margin-bottom: 5px;
