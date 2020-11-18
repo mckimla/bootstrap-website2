@@ -2,23 +2,25 @@
 /* Custom CSS declarations below  */
 
 
-
+/*navigation bar*/
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     color: #fff;
     background-color: #000000 !important;
 }
 
+/*nav pills*/
 a {
     color: #000000;
     text-decoration: none;
     background-color: transparent;
 }
 
+/*color changes when hovered over nav pills*/
 a:hover {
-    color: #A9A9A9;
-    text-decoration: underline;
+    color: #6e6a6a;
 }
 
+/*heading */
 h1 {
   font: bold 3.0em Merriweather, serif;
   height: 65px;
@@ -26,6 +28,7 @@ h1 {
   padding-left: 10px;
 }
 
+/*heading 2*/
 h2 {
   font: bold 3.0em Merriweather, serif;
   height: 65px;
@@ -33,10 +36,12 @@ h2 {
   padding-left: 10px;
 }
 
+/*heading 3*/
 h3 { font: bold 1.5em Merriweather, serif;
-    color: #E9967A;
+    color: #000000;
 }
 
+/*heading 4*/
 h4 {
   font: bold 2.0em Merriweather, serif;
   height: 45px;
@@ -45,6 +50,7 @@ h4 {
   margin: auto;
 }
 
+/*heading 5*/
 h5 {
   font: bold 2.0em Merriweather, serif;
   height: 45px;
@@ -53,11 +59,13 @@ h5 {
   margin-top: 15px;
 }
 
+/*paragraph text*/
 p {
     font: 1.0em Merriweather, serif;
     color: #6e6a6a;
 }
 
+/*body and background color*/
 body {
     font-family: Merriweather, serif;
     font-size: 100%;
@@ -113,6 +121,11 @@ p.lead {
   margin-right: auto;
   width: 35%;
 }
+
+.rep2020 {
+   margin-bottom: 35px;
+}
+
 
 .modalpic {
   float: left;
