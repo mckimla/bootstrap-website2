@@ -25,7 +25,6 @@ h1 {
   font: bold 3.0em Merriweather, serif;
   height: 65px;
   color: #000000;
-  padding-left: 10px;
 }
 
 /*heading 2*/
@@ -33,7 +32,6 @@ h2 {
   font: bold 3.0em Merriweather, serif;
   height: 65px;
   color: black;
-  padding-left: 10px;
 }
 
 /*heading 3*/
@@ -46,7 +44,6 @@ h4 {
   font: bold 2.0em Merriweather, serif;
   height: 45px;
   color: #000000;
-  padding-left: 10px;
   margin: auto;
 }
 
@@ -55,7 +52,6 @@ h5 {
   font: bold 2.0em Merriweather, serif;
   height: 45px;
   color: #000000;
-  padding-left: 10px;
   margin-top: 10px;
 }
 
@@ -122,14 +118,17 @@ p.lead {
   width: 35%;
 }
 
+/* Rep photo */
 .rep2020 {
    margin-bottom: 35px;
 }
 
+/* Quad photo */
 .quad {
   width: 100%;
 }
 
+/* Modal Pics */
 .modalpic {
   float: left;
   width: 33.33%;
@@ -150,15 +149,16 @@ p.lead {
   margin-top: 25px;
   margin-bottom: 25px;
 }
-.about1 {
-    margin-bottom: 25px;
-}
+
+
+/* Header image home page */
 .headerimage {
     margin-top: 25px;
     margin-bottom: 25px;
     align-items: center;
 }
 
+/* Jumping photo */
 .jump {
     display: block;
   margin-left: auto;
@@ -216,24 +216,28 @@ p.lead {
 
 /* Buttons Hover on Merchandise Page */
 .btn:hover {
-    background-color: #E9967A;
+    background-color: #6e6a6a;
     text-decoration: underline;
 }
 
+/* Dust on a Rose pic*/
 .dustrose {
     margin-right: 20px;
 }
 
+/* Dust on a Rose pic*/
 .dustrose2 {
     margin-left: 20px;
 }
 
+/* Dropdown menu */
 .dropdown-menu, .dropdown-item {
     color: black;
     text-decoration: none;
     background-color: white;
 }
 
+/* Dropdown menu */
 .dropdown-menu, .dropdown-item:hover {
     color: #A9A9A9;
     background-color: white;
